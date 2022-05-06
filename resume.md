@@ -34,5 +34,9 @@ fontlist=('\033[0;31m' '\033[0;34m' '\033[0;32m')
 no_of_colors=${#colorlist[@]}
 
 `
+**BOLD stuff**
+
+And of course
+> Quotes are really nice
 
 
