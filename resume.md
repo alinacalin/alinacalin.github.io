@@ -24,4 +24,15 @@ Teaching and Research
 
 Read more: [CV-Europass 2022.pdf](/uploads/CV-Europass%202022.pdf)
 
+### Scrips and Code Snippets Portfolio
+A bit of fun in Bash with the Stroop Test Game:
+`#!/bin/bash
+#Copyright @ Alina 2022
+
+colorlist=("RED" "BLUE" "GREEN")
+fontlist=('\033[0;31m' '\033[0;34m' '\033[0;32m')
+no_of_colors=${#colorlist[@]}
+
+`
+
 
