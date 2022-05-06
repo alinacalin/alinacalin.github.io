@@ -2,6 +2,7 @@ layout: page
 title: "Alina Calin - Resume"
 permalink: /resume/
 
-Build in progres...
+<h1>{{ "Hello World!" | downcase }}</h1>
+
 
 
