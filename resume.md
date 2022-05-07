@@ -1,8 +1,8 @@
 
 <h1>{{ Alina Delia Calin - Resume }}</h1>
-Email: alina_calin16(et)yahoo.com
-LinkedIn: [link](https://www.linkedin.com/in/alina-c%C4%83lin-02a7b0a9/)
-Cluj-Napoca, Romania
+Email: alina_calin16(et)yahoo.com </br>
+Cluj-Napoca, Romania </br>
+[LinkedIn](https://www.linkedin.com/in/alina-c%C4%83lin-02a7b0a9/)
 
 ## About
 *I am a Computer Scientist, passionate about solving problems, scripting and Linux.
