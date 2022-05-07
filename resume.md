@@ -1,7 +1,7 @@
 
 <h1>{{ Alina Delia Calin - Resume }}</h1>
-Email: alina_calin16(et)yahoo.com </br>
-Cluj-Napoca, Romania </br>
+Email: alina_calin16(et)yahoo.com <br><br>
+Cluj-Napoca, Romania <br><br>
 [LinkedIn](https://www.linkedin.com/in/alina-c%C4%83lin-02a7b0a9/)
 
 ## About
