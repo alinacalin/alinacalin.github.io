@@ -24,6 +24,10 @@ Experience with on-site and online teaching of Operating Systems (Linux, Bash, C
 * MSc thesis titled “Remote Indoor Patient Monitoring Using Kinect and PrimeSense Sensors”
 * PhD thesis titled “Intelligent Rehabilitation Systems Using Motion Camera Interaction”
 
+## Certificates, Courses, Ongoing Training
+* Linux Cloud and DevOps: Git, CI/CD, Docker, Kubernetes, AWS, Agile
+* Software engineering: Go, Clean Code, Clean Architecture, Distributed Systems
+
 ### Languages
 * English
 * Romanian
